@@ -19,7 +19,7 @@ try:
 except:
     pass
 
-st.subheader("Una pequeña Fábula.")
+st.subheader("Un pequeño cuento")
 st.write('En un lujoso Manhattan de los años 80, Patrick Bateman, un joven ejecutivo de Wall Street, lleva una '  
          ' vida superficial y glamurosa durante el día, pero en la oscuridad de la noche se convierte en un ' 
          ' despiadado asesino. Atrapado en un mundo vacío de consumismo, vanidad y apariencias, Bateman '  
