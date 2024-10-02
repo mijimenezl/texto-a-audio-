@@ -20,12 +20,15 @@ except:
     pass
 
 st.subheader("Una pequeña Fábula.")
-st.write('¡Ay! -dijo el ratón-. El mundo se hace cada día más pequeño. Al principio era tan grande que le tenía miedo. '  
-         ' Corría y corría y por cierto que me alegraba ver esos muros, a diestra y siniestra, en la distancia. ' 
-         ' Pero esas paredes se estrechan tan rápido que me encuentro en el último cuarto y ahí en el rincón está '  
-         ' la trampa sobre la cual debo pasar. Todo lo que debes hacer es cambiar de rumbo dijo el gato...y se lo comió. ' 
-         '  '
-         ' Franz Kafka.'
+st.write('En un lujoso Manhattan de los años 80, Patrick Bateman, un joven ejecutivo de Wall Street, lleva una '  
+         ' vida superficial y glamurosa durante el día, pero en la oscuridad de la noche se convierte en un ' 
+         ' despiadado asesino. Atrapado en un mundo vacío de consumismo, vanidad y apariencias, Bateman '  
+         ' vive obsesionado con la perfección física, el estatus social y la gratificación instantánea, mientras ' 
+         ' oculta sus impulsos psicopáticos tras una máscara de normalidad. Sus actos de violencia son tan ' 
+         ' extremos como su desprecio por la humanidad que le rodea, cuestionando constantemente la línea ' 
+         ' entre la realidad y la locura, mientras su vida se desmorona en una espiral de terror y confusión, ' 
+         ' dejando al lector con una sensación inquietante sobre la naturaleza del mal. '
+         ' Pelicula American Psycho'
         
         )
            
