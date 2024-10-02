@@ -32,8 +32,8 @@ st.write('En un lujoso Manhattan de los años 80, Patrick Bateman, un joven ejec
         
         )
            
-st.markdown(f"Quieres escucharlo?, copia el texto")
-text = st.text_area("Ingrese El texto a escuchar.")
+st.markdown(f"Quieres escucharlo? Copia el texto")
+text = st.text_area("Ingrese el texto a escuchar.")
 
 tld='com'
 option_lang = st.selectbox(
